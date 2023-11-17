@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-12T23:24:06 PST" name="Suite" finished-at="2023-11-12T23:42:58 PST" duration-ms="1131674">
+    <groups>
+    </groups>
+    <test started-at="2023-11-12T23:24:06 PST" name="Test" finished-at="2023-11-12T23:42:58 PST" duration-ms="1131674">
+      <class name="com.mb.TestRunner.TestRunner">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:com.mb.TestRunner.TestRunner@29a5f4e7]" started-at="2023-11-12T23:24:06 PST" name="setUpClass" finished-at="2023-11-12T23:24:06 PST" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="feature(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.mb.TestRunner.TestRunner@29a5f4e7]" started-at="2023-11-12T23:24:06 PST" name="feature" data-provider="features" finished-at="2023-11-12T23:24:13 PST" duration-ms="6337" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Does the correct version information shows up in index.aspx and default.aspx pages"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Feature to MaxBlox BAT Automation"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.mb.TestRunner.TestRunner@29a5f4e7]" started-at="2023-11-12T23:24:13 PST" name="feature" data-provider="features" finished-at="2023-11-12T23:26:07 PST" duration-ms="114773" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Does the Login and company creation using Index.aspx page successful"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Feature to MaxBlox BAT Automation"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.mb.TestRunner.TestRunner@29a5f4e7]" started-at="2023-11-12T23:26:07 PST" name="feature" data-provider="features" finished-at="2023-11-12T23:26:52 PST" duration-ms="44194" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Does the login and automatic upgrade for this newly created company successful"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Feature to MaxBlox BAT Automation"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.mb.TestRunner.TestRunner@29a5f4e7]" started-at="2023-11-12T23:26:52 PST" name="feature" data-provider="features" finished-at="2023-11-12T23:28:14 PST" duration-ms="82223" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Does the registration using MB_Registration page and subsequent activaton successful"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Feature to MaxBlox BAT Automation"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.mb.TestRunner.TestRunner@29a5f4e7]" started-at="2023-11-12T23:28:14 PST" name="feature" data-provider="features" finished-at="2023-11-12T23:28:14 PST" duration-ms="35" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Does the login and automatic upgrade for this newly created company successful"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Feature to MaxBlox BAT Automation"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.mb.TestRunner.TestRunner@29a5f4e7]" started-at="2023-11-12T23:28:14 PST" name="feature" data-provider="features" finished-at="2023-11-12T23:30:20 PST" duration-ms="126034" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Does the single database single schema architecture works successfully"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Feature to MaxBlox BAT Automation"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.mb.TestRunner.TestRunner@29a5f4e7]" started-at="2023-11-12T23:30:20 PST" name="feature" data-provider="features" finished-at="2023-11-12T23:34:33 PST" duration-ms="252953" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Does the single database multiple schema architecture works correctly"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Feature to MaxBlox BAT Automation"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.mb.TestRunner.TestRunner@29a5f4e7]" started-at="2023-11-12T23:34:33 PST" name="feature" data-provider="features" finished-at="2023-11-12T23:35:06 PST" duration-ms="33080" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Does the Simple page creation Page Designer and subsequent rendering of"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Feature to MaxBlox BAT Automation"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.mb.TestRunner.TestRunner@29a5f4e7]" started-at="2023-11-12T23:35:06 PST" name="feature" data-provider="features" finished-at="2023-11-12T23:36:16 PST" duration-ms="70128" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Does the user creation and login works correctly"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Feature to MaxBlox BAT Automation"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.mb.TestRunner.TestRunner@29a5f4e7]" started-at="2023-11-12T23:36:16 PST" name="feature" data-provider="features" finished-at="2023-11-12T23:38:30 PST" duration-ms="134202" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Does the Advanced page creation Page Designer and subsequent rendering of the"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Feature to MaxBlox BAT Automation"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method signature="feature(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.mb.TestRunner.TestRunner@29a5f4e7]" started-at="2023-11-12T23:38:30 PST" name="feature" data-provider="features" finished-at="2023-11-12T23:42:58 PST" duration-ms="267467" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Check for same page creation in single database multiple schema"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Feature to MaxBlox BAT Automation"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.mb.TestRunner.TestRunner@29a5f4e7]" started-at="2023-11-12T23:42:58 PST" name="tearDownClass" finished-at="2023-11-12T23:42:58 PST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.mb.TestRunner.TestRunner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
